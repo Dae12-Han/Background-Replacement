@@ -1,4 +1,5 @@
-# Background-Replacement
+# Background-Replacement   
+PC 카메라 영상의 배경을 임의의 다른 배경으로 교체한다.
 ## Implementing one of difference-keying algorithms
 
 알고리즘 참고) OpenCV docs - How to use Background Subtraction Methods
